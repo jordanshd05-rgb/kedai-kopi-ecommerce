@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kedai-kopi-ecommerce/static/css/main.aec40251.css",
-    "main.js": "/kedai-kopi-ecommerce/static/js/main.b7619f85.js",
+    "main.css": "/kedai-kopi-ecommerce/static/css/main.e0e62ee0.css",
+    "main.js": "/kedai-kopi-ecommerce/static/js/main.f9a14cb3.js",
     "static/js/453.56733c1a.chunk.js": "/kedai-kopi-ecommerce/static/js/453.56733c1a.chunk.js",
     "index.html": "/kedai-kopi-ecommerce/index.html",
-    "main.aec40251.css.map": "/kedai-kopi-ecommerce/static/css/main.aec40251.css.map",
-    "main.b7619f85.js.map": "/kedai-kopi-ecommerce/static/js/main.b7619f85.js.map",
+    "main.e0e62ee0.css.map": "/kedai-kopi-ecommerce/static/css/main.e0e62ee0.css.map",
+    "main.f9a14cb3.js.map": "/kedai-kopi-ecommerce/static/js/main.f9a14cb3.js.map",
     "453.56733c1a.chunk.js.map": "/kedai-kopi-ecommerce/static/js/453.56733c1a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aec40251.css",
-    "static/js/main.b7619f85.js"
+    "static/css/main.e0e62ee0.css",
+    "static/js/main.f9a14cb3.js"
   ]
 }
